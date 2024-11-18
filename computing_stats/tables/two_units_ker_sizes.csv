@@ -1,0 +1,15 @@
+SEED,mean,min,max
+actor,4.2503,1,10
+amusement_park,2.2752,1,56
+band,2.1348,1,9
+championship,2.1942,1,10
+chemical_element,2.7794,1,22
+company,2.0067,1,10
+comune,6.0674,2,9
+dialect,2.1646,1,22
+film,5.2095,1,29
+scientist,5.2681,1,18
+sculpture,4.2566,1,22
+university,1.8228,1,10
+vehicle,1.9517,1,19
+video_game,4.0668,1,13
